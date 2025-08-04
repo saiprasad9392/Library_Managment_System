@@ -9,9 +9,9 @@ A Java project to manage books and students in a library.
 - View books and students lists
 
 ## Files
-- `Book.java`, `Books.java` — Book entity and management
-- `Student.java`, `Students.java` — Student entity and management
-- `Library.java` — Main class to run the system
+- `book.java`, `books.java` — Book entity and management
+- `student.java`, `students.java` — Student entity and management
+- library.java` — Main class to run the system
 
 ## Requirements
 - JDK 8+
@@ -25,4 +25,4 @@ A Java project to manage books and students in a library.
 ## Compile all Java files:
 javac *.java
 ## Run the main class 
-java Library
+java library
